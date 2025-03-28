@@ -76,7 +76,7 @@ def show_register_form():
         if st.button("Submit Registration"):
             if new_username and new_password and new_email:
                 # Hash the new password
-                hashed_password = Hasher([new_password]).hash(new_password)
+                hashed_password = Hasher.hash(new_password)
                 if 'credentials' not in config:
                     config['credentials'] = {}
                 if 'usernames' not in config['credentials']:

@@ -7,3 +7,5 @@ setuptools
 streamlit-lottie
 google-cloud-aiplatform
 google-cloud-logging
+st-gsheets-connection==0.1.0
+pandas

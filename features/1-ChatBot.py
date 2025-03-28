@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-from features.system_settings import safety_settings, system_instruction, generation_config
+from features.system_settings import *
 from dotenv import load_dotenv
 import os
 from features.functions import *

@@ -19,11 +19,27 @@ credentials:
       vegan_or_nonvegan: Non-Vegan
       working_hours: 10
       working_place: Hospital
+    demo:
+      age: 19
+      chatbot_nickname: DostAI
+      designation: Doctor
+      email: demo@gmail.com
+      gender: Male
+      name: Demo Test
+      password: $2b$12$/Lfr82fUbmqSOMyZRBowFOgz0HvJt19Uc4kX8ghhqK84bD4VN9EHW
+      preferred_lang: English
+      prob_facing: Mental Health
+      prob_reason: Professional
+      status: Single
+      vegan_or_nonvegan: Vegan
+      working_hours: 10
+      working_place: Clinic
     priyanshu123:
       age: 24
       chatbot_nickname: Keshu
       designation: Doctor
       email: priyanshu@gmail.com
+      failed_login_attempts: 0
       gender: Male
       logged_in: false
       name: Priyanshu Joshi
