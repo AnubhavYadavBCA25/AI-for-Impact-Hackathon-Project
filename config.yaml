@@ -4,49 +4,18 @@ cookie:
   name: dostai
 credentials:
   usernames:
-    anubhavyadav:
-      age: 20
-      chatbot_nickname: Abhi
-      designation: Healthcare Worker
-      email: anubhavyadav@gmail.com
-      gender: Male
-      name: Anubhav Yadav
-      password: $2b$12$DQbhBISZUO1UZGmQM8.BcePwgX1VQZBHq6KK88GHDthC4vdB.n8U.
-      preferred_lang: German
-      prob_facing: Both
-      prob_reason: Professional
-      status: Single
-      vegan_or_nonvegan: Non-Vegan
-      working_hours: 10
-      working_place: Hospital
-    demo:
-      age: 19
-      chatbot_nickname: DostAI
+    priyanshu2025:
+      age: 23
+      chatbot_nickname: Dost
       designation: Doctor
-      email: demo@gmail.com
+      email: priyanshu@gmail.com
       gender: Male
-      name: Demo Test
-      password: $2b$12$/Lfr82fUbmqSOMyZRBowFOgz0HvJt19Uc4kX8ghhqK84bD4VN9EHW
+      name: Priyanshu Joshi
+      password: $2b$12$pnm3EWTwwxWlhd7pZV66gug.4xbvL8D4FSyExfDq8.0PREac6WUFW
       preferred_lang: English
       prob_facing: Mental Health
       prob_reason: Professional
       status: Single
       vegan_or_nonvegan: Vegan
-      working_hours: 10
-      working_place: Clinic
-    priyanshu123:
-      age: 24
-      chatbot_nickname: Keshu
-      designation: Doctor
-      email: priyanshu@gmail.com
-      failed_login_attempts: 0
-      gender: Male
-      logged_in: false
-      name: Priyanshu Joshi
-      password: $2b$12$1rYWtQqsf8G7qtwAOArFvuepWgfHywtR45JlIgQr/g.P2YAAuBFX.
-      preferred_lang: English
-      prob_facing: Mental Health
-      prob_reason: Professional
-      status: Single
-      working_hours: 12
+      working_hours: 14
       working_place: Hospital
